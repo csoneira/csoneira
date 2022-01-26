@@ -12,3 +12,8 @@ My profesional interest lies beetwen Nuclear Physics and Math in any of its ways
 
 
 I master Spanish and English. I think of myself as an effective and suitable person, I employ the right time to each problem to benefit the most from it, yet I am sure the most important issue when facing some kind of job is asking the fundamental questions it carries and trying to answer them in an original way. Only in this way, I think, you are able to do a worthy and interesting work.
+
+---
+LinkedIn: linkedin.com/in/cayetano-soneira-906a241b5
+Twitter: @cayesoneira
+Mail: cayesoneira@gmail.com
