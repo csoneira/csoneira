@@ -15,5 +15,7 @@ I master Spanish and English. I think of myself as an effective and suitable per
 
 ---
 LinkedIn: linkedin.com/in/cayetano-soneira-906a241b5
+
 Twitter: @cayesoneira
+
 Mail: cayesoneira@gmail.com
