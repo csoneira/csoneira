@@ -1,4 +1,5 @@
 Mi nombre es Cayetano Soneira Landín, soy estudiante de Doble Grado de Matemáticas y Física, carreras que pienso terminar este mismo año 2022. Estudio en la Universidad de Santiago de Compostela.
+
 Mi interés profesional se encuentra en un terreno intermedio entre la Física Nuclear y las Matemáticas en cualquiera de sus formas, especialmente las ramas de corte más teórico puro, aunque en cuanto a mi actividad como físico me parece que la competencia experimental es esencial y estimulante.
 Domino español e inglés. Me considero solvente y eficaz, me gusta dedicar a cada problema su tiempo justo para sacarle el máximo provecho; creo sin embargo que lo más importante al enfrentarse a una actividad es hacerse las preguntas fundamentales que conlleva y tratar de responderlas de forma original. Solo así, a mi parecer, se puede hacer un trabajo digno e interesante.
 
