@@ -1,12 +1,12 @@
 # ¡Saludos!
 
-Bienvenidos a mi repositorio principal de GitHub. Aquí conservo programas elaborados durante los estudios y algunas otras cuestiones...
+Bienvenidos a mi página principal de GitHub. Aquí conservo programas elaborados durante los estudios y algunas otras cuestiones...
 
 ---
 
 # Greetings!
 
-Welcome to my GitHub main repository. Here I gather some of the code I wrote during my studies and maybe any other stuff...
+Welcome to my GitHub main page. Here I gather some of the code I wrote during my studies and maybe any other stuff...
 
 ---
 
