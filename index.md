@@ -1,4 +1,4 @@
-#Sobre mí#
+# Sobre mí
 
 Mi nombre es Cayetano Soneira Landín, soy estudiante de Doble Grado de Matemáticas y Física, carreras que pienso terminar este mismo año 2022. Estudio en la Universidad de Santiago de Compostela.
 
@@ -8,7 +8,7 @@ Domino español e inglés. Me considero solvente y eficaz, me gusta dedicar a ca
 
 ---
 
-#About me#
+# About me
 
 
 My name is Cayetano Soneira Landín. I am currently studying two deegres simoultaneously, Physics and Math, which I look forward to finish this year 2022. I study in the University of Santiago de Compostela.
