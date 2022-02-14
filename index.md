@@ -11,7 +11,7 @@ Domino español e inglés. Me considero solvente y eficaz, me gusta dedicar a ca
 # About me
 
 
-My name is Cayetano Soneira Landín. I am currently studying two deegres simoultaneously, Physics and Math, which I look forward to finish this year 2022. I study in the University of Santiago de Compostela.
+My name is Cayetano Soneira Landín. I am currently studying two deegres simultaneously, Physics and Math, which I look forward to finish this year 2022. I study in the University of Santiago de Compostela.
 
 My profesional interest lies beetwen Nuclear Physics and Math in any of its ways, specially more theoretical and pure branches, even though I truly believe experimental knowledge is stimulating and essencial with regard to my work as a physicist.
 
