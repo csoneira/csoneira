@@ -1,15 +1,3 @@
-# ¡Saludos!
-
-Bienvenidos a mi página principal de GitHub. Aquí conservo programas elaborados durante los estudios y algunas otras cuestiones...
-
----
-
-# Greetings!
-
-Welcome to my GitHub main page. Here I gather some of the code I wrote during my studies and maybe any other stuff...
-
----
-
 # Sobre mí
 
 Mi nombre es Cayetano Soneira Landín, soy estudiante del máster de Física de Partículas y del cosmos de la Universidad de Cantabria y estoy realizando una beca JAE Intro del CSIC en el Instituto de Física de Cantabria (IFCA). Me he graduado en el doble grado en Matemáticas y Física en la Universidad de Santiago de Compostela (2017-2022).
