@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 # Sobre mí
 
 Mi nombre es Cayetano Soneira Landín, investigador en Física Nuclear y de Partículas del Grupo de Física Nuclear de la Universidad Complutense de Madrid. Cursé el máster de Física de Partículas y del cosmos de la Universidad de Cantabria (2022-2023), así como el doble grado en Matemáticas y Física en la Universidad de Santiago de Compostela (2017-2022).
