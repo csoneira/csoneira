@@ -5,3 +5,7 @@ theme: minima
 nav:
   - Home: index.md
   - About: about.md
+  - Milestones: milestones.md
+
+plugins:
+  - jekyll-seo-tag
