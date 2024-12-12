@@ -1,5 +1,7 @@
-nav:
-    - Home: index.md
-    - About: about.md
-    - To do: milestones.md
+title: My Project
+description: A brief description of the project
 theme: minima
+
+nav:
+  - Home: index.md
+  - About: about.md
