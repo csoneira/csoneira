@@ -42,7 +42,7 @@ In addition to the mentioned academic pursuits, I have engaged in the following 
   - Scholarship from the Spanish Nuclear Society for the master's degree studies (2022).
   - JAE Intro Scholarship from CSIC at the Instituto de Física de Cantabria (IFCA) during the master's program (2022-2023).
 
-- **Predoc**
+- **PhD**
   - Participation in the LIP Internship Program involving a two-week stay in Coimbra with the Laboratório de Instrumentação e Física Experimental (LIP) for the setup of the cosmic ray detector _miniTRASGO_, designed in collaboration with the University of Santiago de Compostela. [Internship report](https://www.lip.pt/?section=training&page=student-publications&filter=all&lang=en) (August 2023).
   - Speaker at the XV CPAN Days Congress with the presentation _The first miniTrasgo Cosmic Ray detector_. [Event page](https://indico.cern.ch/event/1283224/) (October 2023).
   - Coordination of the activity for the Science Week of the Community of Madrid [_How to use your mobile to see the invisible_]([https://link-url-here.org](https://www.semanacienciamadrid.org/actividad/como-usar-tu-movil-para-ver-lo-invisible) (November 2023).
