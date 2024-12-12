@@ -2,4 +2,4 @@ nav:
     - Home: index.md
     - About: about.md
     - To do: milestones.md
-theme: readthedocs
+theme: minima
