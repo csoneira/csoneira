@@ -16,7 +16,7 @@ Welcome to my GitHub main page. Here I gather some of the code I wrote during my
 
 **Correo electrónico**: cayesoneira@gmail.com
 
-**Página personal de GitHub**: [cayesoneira](https://cayesoneira.github.io/cayesoneira/)
+**Página personal de GitHub**: [csoneira](https://csoneira.github.io/csoneira/)
 
 ---
 
@@ -26,4 +26,4 @@ Welcome to my GitHub main page. Here I gather some of the code I wrote during my
 
 **Mail**: cayesoneira@gmail.com
 
-**GitHub personal page**: [cayesoneira](https://cayesoneira.github.io/cayesoneira/)
+**GitHub personal page**: [csoneira](https://csoneira.github.io/csoneira/)
