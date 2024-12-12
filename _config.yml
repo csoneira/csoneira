@@ -9,3 +9,6 @@ nav:
 
 plugins:
   - jekyll-seo-tag
+
+minima:
+  skin: dark
