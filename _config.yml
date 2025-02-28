@@ -1,11 +1,11 @@
 title: csoneira
 description: C. Soneira-Landin's personal site
-# theme: minima
+site_url: https://cayesoneira.github.io/csoneira/  # Update with your GitHub Pages URL
 
 nav:
   - Home: index.md
-  # - About: about.md
-  # - Milestones: milestones.md
+  - About: about.md
+  - Milestones: milestones.md
 
 theme:
   name: material
@@ -15,27 +15,21 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.indexes
-  palette: 
-
-    # Palette toggle for light mode
+  palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
-
 plugins:
   - search
-# To have LaTeX equations display properly.
-# You need to install another package:
-# $ pip3 install python-markdown-math
+
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
 markdown_extensions:
   - mdx_math
