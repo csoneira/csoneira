@@ -5,8 +5,18 @@ repo_url: https://github.com/csoneira/csoneira
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Milestones: milestones.md
+  - About:
+      - About Me: home/index.md
+      - Education: home/education.md
+      - Experience: home/experience.md
+  - Trajectory:
+      - Overview: trajectory/index.md
+      - Publications: trajectory/publications.md
+      - Conferences: trajectory/conferences.md
+      - Outreach & Science Communication: trajectory/outreach.md
+      - Research Projects: trajectory/projects.md
+  - Contact: contact.md
+  - CV: cv.md
 
 theme:
   name: material
