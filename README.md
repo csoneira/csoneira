@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋 C. Soneira-Landín
+# Welcome to My GitHub! - C. Soneira-Landín
 
 Hi! I'm **Cayetano Soneira Landín**, a researcher in **Nuclear and Particle Physics** at the **Complutense University of Madrid**. This repository hosts projects, code, and resources from my academic and professional journey. Feel free to explore!
 
