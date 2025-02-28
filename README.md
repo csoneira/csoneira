@@ -7,14 +7,14 @@ Hi! I'm **Cayetano Soneira Landín**, a researcher in **Nuclear and Particle Phy
 ## Contact 📬
 
 - **LinkedIn**: [Cayetano Soneira](https://www.linkedin.com/in/cayetano-soneira-906a241b5/)  
-- **Email**: [cayesoneira@gmail.com](mailto:cayesoneira@gmail.com)  
+- **Email**: [csoneira@ucm.es](mailto:csoneira@ucm.es)  
 - **Personal Website**: [csoneira.github.io](https://csoneira.github.io/csoneira/)  
 
 ---
 
 ## Repository Overview 📂
 
-This repository includes:  
+These repositories includes:  
 - **Academic Projects**: Code from my studies in Mathematics and Physics.  
 - **Research Work**: Scripts, simulations, and tools for Nuclear and Particle Physics.  
 - **Miscellaneous**: Other experiments and projects.  
