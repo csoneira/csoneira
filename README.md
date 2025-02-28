@@ -1,29 +1,29 @@
-# ¡Saludos!
+# Welcome to My GitHub! 👋 C. Soneira-Landín
 
-Bienvenidos a mi página principal de GitHub. Aquí conservo programas elaborados durante los estudios y algunas otras cuestiones...
-
----
-
-# Greetings!
-
-Welcome to my GitHub main page. Here I gather some of the code I wrote during my studies and maybe any other stuff...
+Hi! I'm **Cayetano Soneira Landín**, a researcher in **Nuclear and Particle Physics** at the **Complutense University of Madrid**. This repository hosts projects, code, and resources from my academic and professional journey. Feel free to explore!
 
 ---
 
-# Sobre mí
+## Contact 📬
 
-**LinkedIn**: [Cayetano Soneira](https://www.linkedin.com/in/cayetano-soneira-906a241b5/)
-
-**Correo electrónico**: cayesoneira@gmail.com
-
-**Página personal de GitHub**: [csoneira](https://csoneira.github.io/csoneira/)
+- **LinkedIn**: [Cayetano Soneira](https://www.linkedin.com/in/cayetano-soneira-906a241b5/)  
+- **Email**: [cayesoneira@gmail.com](mailto:cayesoneira@gmail.com)  
+- **Personal Website**: [csoneira.github.io](https://csoneira.github.io/csoneira/)  
 
 ---
 
-# About me
+## Repository Overview 📂
 
-**LinkedIn**: [Cayetano Soneira](https://www.linkedin.com/in/cayetano-soneira-906a241b5/)
+This repository includes:  
+- **Academic Projects**: Code from my studies in Mathematics and Physics.  
+- **Research Work**: Scripts, simulations, and tools for Nuclear and Particle Physics.  
+- **Miscellaneous**: Other experiments and projects.  
 
-**Mail**: cayesoneira@gmail.com
+Feel free to explore, fork, or contribute!  
 
-**GitHub personal page**: [csoneira](https://csoneira.github.io/csoneira/)
+---
+
+**Let’s collaborate!** 🤝  
+If you’re interested in working together or discussing research, reach out!  
+
+Thanks for visiting! 🚀 
