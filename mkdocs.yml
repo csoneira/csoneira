@@ -1,6 +1,7 @@
-title: csoneira
-description: C. Soneira-Landin's personal site
-site_url: https://cayesoneira.github.io/csoneira/  # Update with your GitHub Pages URL
+site_name: csoneira
+site_url: https://cayesoneira.github.io/csoneira/  # Your GitHub Pages URL
+repo_name: cayesoneira/csoneira
+repo_url: https://github.com/cayesoneira/csoneira
 
 nav:
   - Home: index.md
@@ -32,4 +33,6 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 markdown_extensions:
-  - mdx_math
+  - pymdownx.arithmatex
+  - pymdownx.superfences
+  - pymdownx.highlight
