@@ -1,6 +1,6 @@
 title: csoneira
 description: C. Soneira-Landin's personal site
-theme: minima
+# theme: minima
 
 nav:
   - Home: index.md
