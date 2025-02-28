@@ -19,11 +19,4 @@ These repositories includes:
 - **Research Work**: Scripts, simulations, and tools for Nuclear and Particle Physics.  
 - **Miscellaneous**: Other experiments and projects.  
 
-Feel free to explore, fork, or contribute!  
-
----
-
-**Let’s collaborate!** 🤝  
-If you’re interested in working together or discussing research, reach out!  
-
-Thanks for visiting! 🚀 
+Feel free to explore, fork, or contribute! Thanks for visiting! 🚀 
