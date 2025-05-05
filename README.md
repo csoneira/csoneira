@@ -6,7 +6,7 @@ This repository contains projects, code, and resources from my research and acad
 
 ---
 
-## 🔬 Research & Projects  
+## Research & Projects  
 
 - **Detector Development**: Scintillation & Resistive Plate Chambers (RPCs).  
 - **Cosmic Ray Studies**: Simulation and data analysis tools.  
@@ -16,7 +16,7 @@ Explore the repository, fork, or contribute!
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 - **LinkedIn**: [Cayetano Soneira](https://www.linkedin.com/in/cayetano-soneira-906a241b5/)  
 - **Email**: [csoneira@ucm.es](mailto:csoneira@ucm.es)  
