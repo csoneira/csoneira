@@ -1,4 +1,4 @@
-# Education 🎓  
+# Education
 
 ## Master’s in Particle Physics and the Cosmos  
 - **University of Cantabria (2022 - 2023)**  
