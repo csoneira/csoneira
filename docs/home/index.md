@@ -1,4 +1,4 @@
-# About Me 👨‍🔬
+# About Me
 
 I am a **predoctoral researcher** at the **Complutense University of Madrid**, specializing in **Nuclear and Particle Physics** with applications in **Medical Physics** and advanced detector development.
 
