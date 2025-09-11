@@ -3,7 +3,7 @@
 
 [Personal Website](https://csoneira.github.io/csoneira/) |  
 [LinkedIn](https://www.linkedin.com/in/cayetano-soneira-906a241b5/) |  
-[csoneira@ucm.es](csoneira@ucm.es)
+[csoneira@ucm.es](mailto:csoneira@ucm.es)
 
 ---
 

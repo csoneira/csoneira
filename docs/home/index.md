@@ -1,5 +1,5 @@
 # About Me
 
-I am a **predoctoral researcher** at the **Complutense University of Madrid**, specializing in **Nuclear and Particle Physics** with applications in **Medical Physics** and advanced detector development.
+I am a predoctoral researcher at the Complutense University of Madrid, specializing in **Nuclear and Particle Physics** with applications in medical imaging and cosmic-ray instrumentation.
 
-My work focuses on designing and optimizing radiation detectors for **early cancer detection** and studying **cosmic rays**.
+My research interests include electronic instrumentation, Resistive Plate Chambers and detector systems for both fundamental physics and clinical environments.
