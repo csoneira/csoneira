@@ -16,9 +16,9 @@ This repository compiles code, publications and other material related to my sci
 
 ## Recent Publications
 
-- *miniTRASGO: A Compact RPC Tracker for Cosmic Ray Studies*, Nuclear Instruments and Methods in Physics Research A (2025). DOI: [10.1016/j.nima.2025.172031](https://doi.org/10.1016/j.nima.2025.172031)
-- *miniTRASGO: Design and Initial Results of a Compact Resistive Plate Chamber Telescope for Worldwide Cosmic Ray Monitoring*, Nuclear Instruments and Methods in Physics Research A (2025). DOI: [10.1016/j.asr.2025.07.096](https://doi.org/10.1016/j.asr.2025.07.096)
-- *Real-time Dose Reconstruction in Proton Therapy from In-beam PET Measurements*, Physics in Medicine & Biology (2025). DOI: [10.1088/1361-6560/acf80b](https://doi.org/10.1088/1361-6560/acf80b)
+- *miniTRASGO: A Compact RPC Tracker for Cosmic Ray Studies*, Nuclear Instruments and Methods in Physics Research A (2025). DOI: [10.1016/j.nima.2025.170511](https://doi.org/10.1016/j.nima.2025.170511)
+- *miniTRASGO: Design and Initial Results of a Compact Resistive Plate Chamber Telescope for Worldwide Cosmic Ray Monitoring*, Advances in Space Research (2025). DOI: [10.1016/j.asr.2025.07.096](https://doi.org/10.1016/j.asr.2025.07.096)
+- *Real-time Dose Reconstruction in Proton Therapy from In-beam PET Measurements*, Physics in Medicine & Biology (2025). DOI: [10.1088/1361-6560/adbfd9](https://doi.org/10.1088/1361-6560/adbfd9)
 
 ---
 
