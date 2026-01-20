@@ -1,5 +1,5 @@
-# **Cayetano Soneira Landín**  
-### **PhD Candidate in Nuclear and Particle Physics**  
+# **Cayetano Soneira Landín**
+### **Predoctoral Researcher in Nuclear and Particle Physics**
 
 [Personal Website](https://csoneira.github.io/csoneira/) |  
 [LinkedIn](https://www.linkedin.com/in/cayetano-soneira-906a241b5/) |  
@@ -7,9 +7,9 @@
 
 ---
 
-## **Welcome**  
+## **Welcome**
 
-I am a **PhD candidate in Nuclear and Particle Physics** at the **Complutense University of Madrid**, specializing in **radiation detectors, cosmic ray studies, and medical imaging applications**. My research focuses on designing and optimizing advanced detector technologies for both fundamental physics and real-world applications.  
+I am a **predoctoral researcher in Nuclear and Particle Physics** at the **Complutense University of Madrid**, specializing in **radiation detectors, cosmic ray studies, and medical imaging applications**. My research focuses on designing and optimizing advanced detector technologies for both fundamental physics and real-world applications. I work on scintillation detectors, RPC-based cosmic-ray monitoring, and in-beam PET methods for proton therapy.  
 
 This website serves as a hub for my **publications, conference contributions, research projects, and outreach activities**.  
 
