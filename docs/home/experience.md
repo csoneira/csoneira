@@ -1,4 +1,4 @@
-# Professional Experience 💼
+# Professional Experience
 
 ## Current Position
 ### Researcher at Complutense University of Madrid (Jun 2023 – Present)

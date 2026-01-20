@@ -1,10 +1,10 @@
-# Research Trajectory 🚀  
+# Research Trajectory
 
 My research focuses on **Nuclear and Particle Physics**, with applications in **medical imaging**, **radiation detectors**, and **cosmic ray studies**. Over the years, I have contributed to various **publications**, **conferences**, **research projects**, and **science outreach initiatives**.  
 
 Explore the different sections below to learn more about my **academic and research journey**:
 
-## 🔹 **Sections in this Category**  
+## **Sections in this Category**
 
 - **[Publications](publications.md)** – Peer-reviewed journal articles and submitted works.  
 - **[Conferences](conferences.md)** – Presentations, talks, and posters at international and national meetings.  

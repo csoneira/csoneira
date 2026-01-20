@@ -1,4 +1,4 @@
-# Research Projects 🔬  
+# Research Projects
 
 ### **NeWMBI Project (Apr 2022 - Dec 2025)**
 - Development of **radiation detectors for medical imaging**

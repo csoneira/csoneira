@@ -1,4 +1,4 @@
-# Conferences and Presentations 🎤
+# Conferences and Presentations
 
 ## Organizing & Committees
 - **FAST'25: Fast Timing for Nuclear Structure and Applications** (Madrid, 11-14 Mar 2025) - Organizing committee

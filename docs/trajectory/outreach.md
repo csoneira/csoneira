@@ -1,4 +1,4 @@
-# Outreach & Science Communication 🌍
+# Outreach & Science Communication
 
 ## Science Outreach
 - **Coordinator** at **Madrid Science Week 2023**: Led workshops like *"How to use your mobile to see the invisible"*
