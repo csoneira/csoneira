@@ -6,16 +6,29 @@ For supporting files, see `cv_documents/document_index.md`.
 ## Publications
 - 2025 | miniTRASGO: A compact RPC tracker for cosmic ray studies | NIM A | DOI 10.1016/j.nima.2025.170511
 - 2025 | Real-time dose reconstruction in proton therapy from in-beam PET measurements | Physics in Medicine & Biology | DOI 10.1088/1361-6560/adbfd9
-- 2025 | miniTRASGO: Design and Initial Results of a Compact and Versatile Resistive Plate Chamber Tracker for Global Cosmic Ray Monitoring | Advances in Space Research | accepted for revision
+- 2025 | miniTRASGO: Design and Initial Results of a Compact and Versatile Resistive Plate Chamber Tracker for Global Cosmic Ray Monitoring | Advances in Space Research | published
+- 2025 | Deployment of a MiniTrasgo Detector at UDEM | Proceedings of Science, PoS(ICRC2025)329 | ICRC 2025 proceedings
+- 2025 | miniTRASGO: a compact RPC telescope for global cosmic ray monitoring | Proceedings of Science, PoS(ICRC2025)1368 | ICRC 2025 proceedings (first author)
 
 ## Conferences, Workshops, and Schools
+
+### Organizing and Committees
 - 2025 | FAST'25: Fast Timing for Nuclear Structure and Applications | Organizing committee | Madrid, Spain | Evidence: `cv_documents/PUBLIC/2025-03-25_fast25_organizing_committee_certificate.pdf`
+
+### Teaching and Schools
 - 2024 | DRD1 Gaseous Detectors School (CERN) | Tutor, MRPC Characterization | Geneva, Switzerland | Evidence: `cv_documents/PUBLIC/2025-01-17_cern_drd1_school_tutor_certificate.pdf`
+
+### Oral Presentations
 - 2024 | XVI Jornadas CPAN | Oral presentation: "miniTRASGO: A Compact Cosmic Ray Telescope for Global Coverage" | Madrid, Spain | Evidence: `cv_documents/PUBLIC/2024-11-21_cpan_days_talk_certificate.pdf`
-- 2024 | European Space Weather Week | Poster: "The miniTRASGO Cosmic Ray Telescope" | Coimbra, Portugal | Evidence: `cv_documents/PUBLIC/2024-11-08_esww2024_conference_attendance.pdf`
 - 2024 | RPC2024 | Oral presentation: "The first miniTRASGO Cosmic Ray Telescope" | Santiago de Compostela, Spain | Evidence: `cv_documents/PUBLIC/2024-09-13_rpc2024_oral_contribution_certificate.pdf`
 - 2024 | XXXIX RSEF Biennial Meeting | Oral presentation: "The miniTRASGO Cosmic Ray Telescope" | Donostia/San Sebastian, Spain | Evidence: `cv_documents/PUBLIC/2024-07-22_rsef_biennial_oral_contribution_certificate.pdf`
 - 2023 | L International Meeting on Fundamental Physics & XV CPAN Days | Oral presentation: "The first miniTRASGO Cosmic Ray Detector" | Santander, Spain | Evidence: `cv_documents/PUBLIC/2023-10-06_cpan_days_attendance_certificate.pdf`
+- 2025 | NMDB Meeting 2025: Cosmic Ray studies with Neutron Detectors | Co-author contribution (presented by A. Blanco): "miniTRASGO: A Compact RPC Tracker for Global Cosmic Ray and Space Weather Monitoring" | Athens, Greece | Evidence: pending (Drive id: 1om1QXNWeZH8qWt38aGwRP9FJmG2pMlf1)
+
+### Poster Presentations
+- 2024 | European Space Weather Week | Poster: "The miniTRASGO Cosmic Ray Telescope" | Coimbra, Portugal | Evidence: `cv_documents/PUBLIC/2024-11-08_esww2024_conference_attendance.pdf`
+
+### Attendance
 - 2024 | Workshop on Technologies & Applied Research at the future Valencian proton-therapy facility | Attendance | Valencia, Spain | Evidence: `cv_documents/PUBLIC/2024-03-01_valencia_proton_therapy_workshop_attendance.pdf`
 
 ## Scholarships and Funding
@@ -47,6 +60,7 @@ For supporting files, see `cv_documents/document_index.md`.
 - 2021-10 to 2021-12 | Laboratory assistant, USC Nuclear and Particle Physics lab (TFG) | Evidence: `cv_documents/PUBLIC/2023-03-23_recommendation_letter_tfg_alvarez_pol.pdf`
 
 ## Outreach and Science Communication
+- 2025 | Coordinator, Madrid Science Week | Evidence: pending (Drive id: 1CIlKXaM6gpr03KsDbh9Ze7Izwu9dBJDi)
 - 2023-11 | Coordinator, Madrid Science Week | Evidence: `cv_documents/PUBLIC/2023-11-28_madrid_science_week_coordination_certificate.pdf`
 - 2018-09 | Organizer, Summer Course "Natural Risks for Security: Climate Change and Geomagnetic Solar Storms" | Evidence: `cv_documents/PUBLIC/2018-09-10_summer_course_solar_storms_organizing_certificate.pdf`
 - 2021-07/08 | Speaker, "Mathematics: Much More Than Numbers!" | Evidence: `cv_documents/PUBLIC/2021-08-01_math_course_talk_certificate.pdf`
@@ -62,7 +76,6 @@ For supporting files, see `cv_documents/document_index.md`.
 
 ## Pending from Drive (needs public access or local upload)
 - 2025 | IV Jornadas de Doctorandos de Física Nuclear | Certificate file id: 1fmhskGDHa2sBhEX9uaCfJ0slS9T0vJiA
-- 2025 | NMDB Meeting | E-poster file id: 1om1QXNWeZH8qWt38aGwRP9FJmG2pMlf1
 - 2025 | ICRC 2025 | Attendance certificate file id: 1SqbPxRxPGYY_gn1-TzHV71WOVi1h8aUP
 - 2025 | ICRC 2025 | Poster file id: 1zhdeDj7BS90fLBPkxSi2r1TvFX3meMW4
 - 2025 | EuNPC 2025 | Registration certificate file id: 1kJcMD971OVXW8LHYB_Nut6qAM6PQ_luJ

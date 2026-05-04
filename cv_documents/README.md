@@ -2,6 +2,10 @@
 
 This folder is the source of truth for certificates, letters, and supporting evidence used in the CV and website.
 See `cv_documents/cv_list.md` for the working CV list and `cv_documents/document_index.md` for document mapping.
+For reusable profile metadata and a unified structured activity table, see:
+
+- `cv_documents/reusable_info_guide.md`
+- `cv_documents/master_academic_activity.csv`
 
 ## Structure
 
