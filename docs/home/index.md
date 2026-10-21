@@ -1,5 +1,5 @@
-# About Me
+# About
 
-I am a predoctoral researcher at the Complutense University of Madrid, specializing in **Nuclear and Particle Physics** with applications in medical imaging and cosmic-ray instrumentation.
+Predoctoral researcher at the Complutense University of Madrid working in Nuclear and Particle Physics, with applications in medical imaging and cosmic-ray instrumentation.
 
-My research interests include electronic instrumentation, Resistive Plate Chambers, scintillation detectors, and in-beam PET for proton therapy, bridging fundamental physics and clinical environments.
+Research topics include electronic instrumentation, Resistive Plate Chambers, scintillation detectors, and in-beam PET for proton therapy.
