@@ -1,21 +1,12 @@
-# **Cayetano Soneira Landín**
-### **Predoctoral Researcher in Nuclear and Particle Physics**
+# Cayetano Soneira Landín
 
-[Personal Website](https://csoneira.github.io/csoneira/) |  
-[LinkedIn](https://www.linkedin.com/in/cayetano-soneira-906a241b5/) |  
-[csoneira@ucm.es](mailto:csoneira@ucm.es)
+Predoctoral researcher in Nuclear and Particle Physics at the Complutense University of Madrid.
 
----
+My work focuses on radiation-detector instrumentation, Resistive Plate Chambers for cosmic-ray monitoring, scintillation detectors, and in-beam PET for proton therapy.
 
-## **Welcome**
-
-I am a **predoctoral researcher in Nuclear and Particle Physics** at the **Complutense University of Madrid**, specializing in **radiation detectors, cosmic ray studies, and medical imaging applications**. My research focuses on designing and optimizing advanced detector technologies for both fundamental physics and real-world applications. I work on scintillation detectors, RPC-based cosmic-ray monitoring, and in-beam PET methods for proton therapy.  
-
-This website serves as a hub for my **publications, conference contributions, research projects, and outreach activities**.  
-
-### **Explore My Work**  
-- **[Research & Publications](trajectory/publications.md)** – Papers and ongoing projects
-- **[Conferences & Talks](trajectory/conferences.md)** – Scientific presentations
-- **[Science Outreach](trajectory/outreach.md)** – Public engagement initiatives
-
-Feel free to explore and reach out if you’d like to collaborate.  
+- [Curriculum vitae](cv.md)
+- [Publications](trajectory/publications.md)
+- [Conferences and presentations](trajectory/conferences.md)
+- [Research projects](trajectory/projects.md)
+- [Outreach](trajectory/outreach.md)
+- [Contact](contact.md)
